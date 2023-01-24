@@ -1,5 +1,4 @@
 # Git-Github
-Learn Git with GitHub.
+Learn Git and GitHub.
 
 Learning with Edureka.
-
