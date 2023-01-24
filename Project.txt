@@ -1,3 +1,29 @@
 This document for projecrt summerization of html
 
 here i use as html and css for webpage which one is helpful for me.
+
+
+
+git Command- 
+
+git init - innitialized repo
+
+git remote add origin "URl" - connection to that repo
+
+git pull origin master- fatch data from master branch
+
+git status - check status of project file
+
+For PUSH Request------>
+If you enabled two-factor authentication in your GitHub account you won't be able to push via HTTPS using your accounts password. Instead you need to generate a personal access token. This can be done in the application settings of your GitHub account. Using this token as your password should allow you to push to your remote repository via HTTPS. Use your username as usual.
+
+Creating a personal access token
+
+You may also need to update the origin for your repository if it is set to HTTPS. Do this to switch to SSH:
+
+git remote -v
+git remote set-url origin git@github.com:USERNAME/REPONAME.git
+
+
+hii
+
